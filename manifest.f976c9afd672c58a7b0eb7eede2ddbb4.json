@@ -1,0 +1,87 @@
+{
+  "icons": [
+    {
+      "src": "auto/icons/ios/icon_1024x1024.79da05c1812c0bec31e30d5973a8ce5e.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/ios/icon_512x512.cca0accf10a2242a39bfdaf1895cd4e7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/ios/icon_192x192.fcd77628dedaa811edb93a456b8c0b14.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/ios/icon_144x144.caf1d43be67bc85ae4f6baa7cd3510bf.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/ios/icon_96x96.fb55efea276f90c85817115b2d09cfe9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/ios/icon_72x72.f012f069d7b404956f0241ee13fd7bee.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/ios/icon_48x48.b2a43362b8fdaffbd528aeba514ab8c1.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/ios/icon_36x36.f5d00b4de0b7d5b249dc7dbf7a3d810a.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/android/icon_512x512.f6d07b2e5b89ed64cc89f13b258388fc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/android/icon_192x192.3f977dfb3d3ea94f3313fa522f855db8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/android/icon_144x144.5e42ea2de69648014e6eecf5fdfcabe8.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/android/icon_96x96.ac22094eb5f189ec6170f785e5b6d251.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/android/icon_72x72.8606e93f3b32bd250d5e7b538005a4f0.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/android/icon_48x48.6ba0a0108e1961f008de5b9d7a005146.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icons/android/icon_36x36.1b35c59cb1c3d8fbe0c81484817f521f.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    }
+  ],
+  "name": "Vanilla SPA template",
+  "short_name": "VanillaSPA",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Reactive vanilla SPA demo with state manager",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
