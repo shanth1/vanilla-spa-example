@@ -110,7 +110,32 @@
     font-size: 1em; /* 2 */
   }
   
-.header{padding:30px 20px;font-size:32px;font-family:Arial,Helvetica,sans-serif;font-weight:bold}
+.qEVV8myt {
+    display: flex;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.85);
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.CU5kGIWx {
+    font-size: large;
+    color: white;
+    text-decoration: none;
+    background-color: transparent; 
+    -webkit-text-decoration-skip: objects; 
+}
+
+.CU5kGIWx:active,
+.CU5kGIWx:hover {
+    text-decoration: underline;
+}
+
+.adV5tGMO { 
+    text-decoration: underline;
+}
+.header{padding:30px 20px;font-size:32px;font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:rgba(0,0,0,.85)}
 .button {
     width: 150px;
     height: 80px;
@@ -133,4 +158,4 @@
     background-color: ghostwhite;
 }
 
-/*# sourceMappingURL=app.e9feda39fa7d9ea97631.css.map*/
+/*# sourceMappingURL=app.8218356c4971fd151ac7.css.map*/
