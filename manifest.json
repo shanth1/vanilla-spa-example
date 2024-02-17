@@ -80,8 +80,9 @@
   "short_name": "VanillaSPA",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "/vanilla-spa-example/",
   "description": "Reactive vanilla SPA demo with state manager",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff"
+  "theme_color": "#ffffff",
+  "scope": "/vanilla-spa-example/"
 }
